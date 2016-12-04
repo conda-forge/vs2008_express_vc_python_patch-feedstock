@@ -11,6 +11,18 @@ Summary: Workaround to help CMake find the appropriate x64 compiler on VS 2008 E
 
 
 
+Current build status
+====================
+
+Linux: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+OSX: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/vs2008_express_vc_python_patch-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/vs2008-express-vc-python-patch-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vs2008_express_vc_python_patch/badges/version.svg)](https://anaconda.org/conda-forge/vs2008_express_vc_python_patch)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vs2008_express_vc_python_patch/badges/downloads.svg)](https://anaconda.org/conda-forge/vs2008_express_vc_python_patch)
+
 Installing vs2008_express_vc_python_patch
 =========================================
 
@@ -66,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-OSX: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/vs2008_express_vc_python_patch-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/vs2008-express-vc-python-patch-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vs2008_express_vc_python_patch/badges/version.svg)](https://anaconda.org/conda-forge/vs2008_express_vc_python_patch)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vs2008_express_vc_python_patch/badges/downloads.svg)](https://anaconda.org/conda-forge/vs2008_express_vc_python_patch)
 
 
 Updating vs2008_express_vc_python_patch-feedstock
